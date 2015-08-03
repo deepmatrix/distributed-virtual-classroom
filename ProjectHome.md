@@ -1,0 +1,1 @@
+this is a part of Northeast Normal University computer science and information technology institute of scientific research project,try to use vrml and java create a distributed virtual classroom that can be released by the browser.
